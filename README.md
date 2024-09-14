@@ -8,35 +8,10 @@ Album Collections is a web application that enables users to organize and intera
 
 ## Table of Contents
 
-- [Folder Structure](#folder-structure)
 - [Features](#features)
 - [How to Start](#how-to-start)
 - [Technologies Used](#technologies-used)
 - [Author](#author)
-
-## Folder Structure
-
-The project's folder structure is organized as follows:
-
-📦 album-manager
-┣ 📂 public
-┣ 📂 src
-┃ ┣ 📂 components
-┃ ┣ 📂 Album
-┃ ┃ ┗ 📜 Album.js
-┃ ┣ 📂 AlbumItem
-┃ ┃ ┣ 📜 AlbumItem.css
-┃ ┃ ┗ 📜 AlbumItem.js
-┃ ┣ 📂 Footer
-┃ ┃ ┗ 📜 Footer.js
-┃ ┣ 📂 Navbar
-┃ ┃ ┗ 📜 Navbar.js
-┃ ┣ 📜 App.css
-┃ ┗ 📜 App.js
-┣ 📜 .gitignore
-┣ 📜 README.md
-┣ 📜 package-lock.json
-┗ 📜 package.json
 
 
 ## Features
