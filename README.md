@@ -1,5 +1,5 @@
 markdown
- hoisting link }-----  >   https://albumcollect.onrender.com/
+ hoisting link -----  >  
 # Album Manager
 
 **A simple React application for managing albums.**
