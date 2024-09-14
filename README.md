@@ -11,7 +11,6 @@ Album Collections is a web application that enables users to organize and intera
 - [Features](#features)
 - [How to Start](#how-to-start)
 - [Technologies Used](#technologies-used)
-- [Author](#author)
 
 
 ## Features
