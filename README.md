@@ -46,9 +46,7 @@ Open your web browser and navigate to http://localhost:3000 to access the Album 
 **Technologies Used**
 - ReactJS
 - Bootstrap
-**Author**
-Adarsh Rakesh Shrivastava
-`[https://github.com/adsrivastav]` 
+
 
 
 
